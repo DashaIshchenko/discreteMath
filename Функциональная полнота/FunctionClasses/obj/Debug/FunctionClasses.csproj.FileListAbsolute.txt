@@ -1,0 +1,8 @@
+C:\Users\dedma\source\repos\discrete_math\FunctionClasses\FunctionClasses\bin\Debug\FunctionClasses.exe.config
+C:\Users\dedma\source\repos\discrete_math\FunctionClasses\FunctionClasses\bin\Debug\FunctionClasses.exe
+C:\Users\dedma\source\repos\discrete_math\FunctionClasses\FunctionClasses\bin\Debug\FunctionClasses.pdb
+C:\Users\dedma\source\repos\discrete_math\FunctionClasses\FunctionClasses\obj\Debug\FunctionClasses.csproj.AssemblyReference.cache
+C:\Users\dedma\source\repos\discrete_math\FunctionClasses\FunctionClasses\obj\Debug\FunctionClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\dedma\source\repos\discrete_math\FunctionClasses\FunctionClasses\obj\Debug\FunctionClasses.csproj.CoreCompileInputs.cache
+C:\Users\dedma\source\repos\discrete_math\FunctionClasses\FunctionClasses\obj\Debug\FunctionClasses.exe
+C:\Users\dedma\source\repos\discrete_math\FunctionClasses\FunctionClasses\obj\Debug\FunctionClasses.pdb
